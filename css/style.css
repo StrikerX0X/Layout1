@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+header{
+    background-color:yellowgreen;
+    height: 50px;
+    text-align: center;
+}
+
+header h1{
+    padding-top: 7px;
+}
+nav{
+    background-color: rgb(248, 19, 153);
+    height: 100px;
+    text-align: center;
+}
+nav h1{
+    padding-top: 25px;
+    font-size: 40px;
+}
+.article-section{
+    height: 400px;
+    background-color: tomato;
+}
+.left-block{
+    width: 60%;
+    background-color: hotpink;
+    height: 100%;
+    float: left;
+}
+.right-block{
+    width: 40%;
+    background-color: sienna;
+    height: 100%;
+    float: right;
+}
+.top{
+    background-color: slateblue;
+    height: 50%;
+}
+.bottom{
+    background-color: tan;
+    height: 50%;
+}
+footer{
+    background-color: yellow;
+    height: 80px;
+    overflow: hidden;
+}
+.left-block h1{
+    padding-top: 90px;
+}
+.right-block h1{
+    padding-top: 200px;
+}
+footer h1{
+    padding-top: 22px;
+}
